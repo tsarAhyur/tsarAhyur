@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on:
 -    software development projects, I am also avaialble for Entry level or Internship roles
 - 📫 How to reach me ... 
-- Twitter (@_ahyur) ps: I majorly use my twitter to rant about how Manchester United and like academic twitter posts!
+- Twitter (@_ahyur) ps: I majorly use my twitter to rant about how Manchester United stresses me and like academic twitter posts!
   Linkedin (Ogunsanmi Ayomide)
   I look forward to collaborating on data cleaning and debugging database issues!
 <!---
