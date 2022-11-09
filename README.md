@@ -1,19 +1,13 @@
-- 👋 Hi, I’m @Ahyur
-- I am a prospective Biomedical Science graduate student
-- I became interested in coding due to boredom during the 2020 lockdown, since then i've been excited about the idea of generating data and amplyfing them.
-- 👀 I’m interested in:
--   Backend development using Python(Django, Flask)
--   AI and Data Analytics for Health techs
+- 👋 Hi, I’m @Ayomide
+- I am a prospective Biomedical Science graduate student, with specific interests in metabolic syndrome, genetics, drug design and drug discovery, structural biology.
+- As part of my undergraduate project requirement, I studied the effect of cowpea pulse, and its ability to serve as a functional food in the management of metabolic syndrome. here is a link to the study: doi.org/10.1007/s11694-019-00064-0
+- Currently. I work on plant genetic conservation through genomic wide association study, phenotyping as a graduate research intern at the International Institute of Tropical Agriculture(IITA), in Ibadan.
+-  
 - 🌱 I’m currently learning:
--     sql databases,
+-     R,
 -     Django frameworks
 - 💞️ I’m looking to collaborate on:
--    software development projects, I am also avaialble for Entry level or Internship roles
+-    software development projects, I am also avaialble to collaborate on exciting R projects!!
 - 📫 How to reach me ... 
-- Twitter (@_ahyur) ps: I majorly use my twitter to rant about how Manchester United stresses me and like academic twitter posts!
+- Twitter (@_ahyur) ps: I use my twitter to rant about how Manchester United stresses me and also retweet academic twitter posts!
   Linkedin (Ogunsanmi Ayomide)
-  I look forward to collaborating on data cleaning and debugging database issues!
-<!---
-tsarAhyur/tsarAhyur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
